@@ -34,7 +34,14 @@ El propósito de **StudyBox** es integrar en una sola aplicación diferentes eje
 
 ---
 
-## 💻 Tecnologías Utilizadas
+## 🖼️ Capturas de pantalla
+
+### Calificaciónes
+![Calificaciónes](StudyBox/wwwroot/img/P1.png)
+
+---
+
+## Tecnologías Utilizadas
 
 - **Lenguaje:** C#  
 - **Framework:** ASP.NET Core 5.0 (Blazor Server)  
@@ -43,7 +50,7 @@ El propósito de **StudyBox** es integrar en una sola aplicación diferentes eje
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 
