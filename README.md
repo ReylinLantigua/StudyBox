@@ -1,5 +1,5 @@
 
-```
+
 # StudyBox
 
 **StudyBox** es un proyecto académico desarrollado como parte de la asignatura **Programación III** en el **Instituto Tecnológico de Las Américas (ITLA)**.  
