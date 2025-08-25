@@ -3694,11 +3694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\_.NET ASP\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "D:\\CSharp\\_.NET ASP\\StudyBox\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\CSharp\\_.NET ASP\\WebApp\\WebApp.csproj",
+      "projectPath": "D:\\CSharp\\_.NET ASP\\StudyBox\\WebApp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\_.NET ASP\\WebApp\\obj\\",
+      "outputPath": "D:\\CSharp\\_.NET ASP\\StudyBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

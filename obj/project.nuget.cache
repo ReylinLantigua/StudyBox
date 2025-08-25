@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBjkgnytk+oQoLX6YTpkqT2IeioUQiEaKlzh2wnfrPEpncWGhms6GjQJYA3b1PtrOFwf/yeVSbGUGaoHBVBS3Q==",
+  "dgSpecHash": "cxSW6iDnM2CpDnJCuULAOVL58P6iZF4j87LOBwWMOtnt+1WljauXVmCIefAfw8Jqzz6SSiN649MiUM5L6n+5Rw==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\_.NET ASP\\WebApp\\WebApp.csproj",
+  "projectFilePath": "D:\\CSharp\\_.NET ASP\\StudyBox\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\htmlagilitypack\\1.7.4\\htmlagilitypack.1.7.4.nupkg.sha512",
