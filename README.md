@@ -90,7 +90,7 @@ dotnet run
 
 ## Licencia
 
-Proyecto académico – **Instituto Tecnológico de las Américas (ITLA)** – 2025.
+Proyecto académico – **Instituto Tecnológico de las Américas (ITLA)** – 2024.
 Uso libre con fines educativos.
 
 ---
