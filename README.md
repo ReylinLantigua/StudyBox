@@ -37,7 +37,7 @@ El propósito de **StudyBox** es integrar en una sola aplicación diferentes eje
 ## 🖼️ Capturas de pantalla
 
 ### Calificaciónes
-![Calificaciónes](StudyBox/wwwroot/img/P1.png)
+![Calificaciónes](wwwroot/img/P1.png)
 
 ---
 
