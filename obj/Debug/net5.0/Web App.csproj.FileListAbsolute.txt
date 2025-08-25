@@ -1,0 +1,24 @@
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.AssemblyInfo.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.RazorComponent.input.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\1_Frases.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Calificaciones.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ConstruirSilla.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ImagenURL.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Medidas.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumARomano.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumLetras.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Promedio.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\RandomUser.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Web App.RazorComponent.output.cache

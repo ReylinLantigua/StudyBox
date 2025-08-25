@@ -1,0 +1,34 @@
+﻿@page "/tnumletra"
+<h4 style="        text-align: center;
+        color: white;
+        padding: 10px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+    Numeros en Letras
+</h4>
+<EditForm Model="medi">
+    <div class="form-group">
+        <label class="control-label col-md-2">Ingrese el Numero</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Digite el numero" @bind-Value="medi.value" />
+        </div>
+        <br />
+        <div>
+            <button class="btn btn-secondary" @onclick="Convertir"><i class="oi oi-italic"></i>Convertir</button>
+        </div>
+    </div>
+</EditForm>
+
+<br />
+<br />
+<h4>En letras: @text</h4>
+@code {
+    double value = 0;
+    string text = "";
+    Models.model_medi medi = new Models.model_medi();
+    private void Convertir()
+    {
+        value = medi.value;
+        text = Models.Model_NumLetras.NumeroALetras(value);
+    }
+}

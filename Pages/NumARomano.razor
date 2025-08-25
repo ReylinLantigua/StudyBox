@@ -1,0 +1,66 @@
+﻿@page "/romano"
+@inject IJSRuntime JSRuntime
+<h4 style="        text-align: center;
+        color: white;
+        padding: 10px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+    Numeros a Romano
+</h4>
+<EditForm Model="roma">
+    <div class="form-group">
+        <label class="control-label col-md-2">Ingrese el Numero</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Ingrese el Numero" @bind-Value="roma.Numero" />
+        </div>
+        <br />
+        <div>
+            <button class="btn btn-secondary" @onclick="Alert"><i class="oi oi-italic"></i>Convertir</button>
+        </div>
+    </div>
+</EditForm>
+
+<br />
+<br />
+<h4>En Romano: @roma.Romano</h4>
+
+@code {
+    Models.Model_Romano roma = new Models.Model_Romano();
+
+    private void Convertir()
+    {
+        roma.Romano = ToRoman(roma.Numero);
+    }
+    private string ToRoman(int number)
+    {
+        if (number < 1) return string.Empty;
+        if (number >= 1000) return "M" + ToRoman(number - 1000);
+        if (number >= 900) return "CM" + ToRoman(number - 900); 
+        if (number >= 500) return "D" + ToRoman(number - 500);
+        if (number >= 400) return "CD" + ToRoman(number - 400);
+        if (number >= 100) return "C" + ToRoman(number - 100);
+        if (number >= 90) return "XC" + ToRoman(number - 90);
+        if (number >= 50) return "L" + ToRoman(number - 50);
+        if (number >= 40) return "XL" + ToRoman(number - 40);
+        if (number >= 10) return "X" + ToRoman(number - 10);
+        if (number >= 9) return "IX" + ToRoman(number - 9);
+        if (number >= 5) return "V" + ToRoman(number - 5);
+        if (number >= 4) return "IV" + ToRoman(number - 4);
+        if (number >= 1) return "I" + ToRoman(number - 1);
+        throw new ArgumentOutOfRangeException("something bad happened");
+    }
+    private async Task Alert()
+    {
+        int number = roma.Numero;
+        if ((number < 0) || (number > 3999))
+        {
+            await JSRuntime.InvokeAsync<object>("Alert", "El numero tiene que ser menor a 3999");
+            roma.Romano = "";
+            return;
+        }
+        else
+        {
+            Convertir();
+        }
+    }
+}

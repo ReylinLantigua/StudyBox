@@ -1,0 +1,69 @@
+﻿@using Microsoft.AspNetCore.Components.Routing
+
+<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">Study Box</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <a class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Acerca De
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="frases">
+                <span class="oi  oi-justify-center" aria-hidden="true"></span> Analizar Frase
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="triangulo">
+                <span class="oi oi-caret-top" aria-hidden="true"></span> Medidor Triangulos
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="tnumletra">
+                <span class="oi oi-text" aria-hidden="true"></span> Convertir # en Letras
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="imagenurl">
+                <span class="oi oi-camera-slr" aria-hidden="true"></span> Imagenes en URL
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="calificaciones">
+                <span class="oi oi-task" aria-hidden="true"></span> Calcular Calificaciones
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="promedio">
+                <span class="oi oi-calculator" aria-hidden="true"></span> Promedio de Números
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="romano">
+                <span class="oi oi-italic" aria-hidden="true"></span> # A Romano
+            </a>
+        </li>
+        <li class="nav-item px-3">
+            <a class="nav-link" href="construir">
+                <span class="oi oi-italic" aria-hidden="true"></span>Contruir Silla
+            </a>
+        </li>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

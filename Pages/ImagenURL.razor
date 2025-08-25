@@ -1,0 +1,30 @@
+﻿@page "/imagenurl"
+@using ScrapySharp.Extensions;
+<h3>Analizador de URL</h3>
+
+<EditForm Model="cant" OnValidSubmit="@cantidadimg">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <InputText class="form-control" placeholder="Escriba la frase o oración..." @bind-Value="cant.url" />
+    </div>
+    <button type="submit" class="btn btn-success"><i class="oi oi-plus"></i>  Analizar</button>
+</EditForm>
+<br />
+<br />
+<p>La cantidad de imagenes en la URL es: @Num</p>
+@code {
+    Models.Model_CantImagenes cant = new Models.Model_CantImagenes();
+    int Num = 0;
+    public void cantidadimg()
+    {
+        Num = 0;
+        HtmlAgilityPack.HtmlWeb oWeb = new HtmlAgilityPack.HtmlWeb();
+
+        HtmlAgilityPack.HtmlDocument doc = oWeb.Load(cant.url);
+        foreach (var nodo in doc.DocumentNode.CssSelect("img"))
+        {
+            Num++;
+        }
+    }
+}

@@ -1,0 +1,59 @@
+﻿@page "/calificaciones"
+@inject IJSRuntime JSRuntime
+<h3>Calificaciones</h3>
+<EditForm Model="cali">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <label class="control-label col-md-2">Ingrese calificación</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Digite la calificación" @bind-Value="cali.calificacion" />
+        </div>
+        <br />
+        <div>
+            <button type="submit" class="btn btn-secondary" @onclick="Alert"><i class="oi oi-italic"></i>  Calcular</button>
+        </div>
+    </div>
+</EditForm>
+<br />
+<br />
+<h4>La Calificación literal: @cali.literal</h4>
+<h5>El 40%: @(cali.calificacion*0.4)</h5>
+<h5>El 30%: @(cali.calificacion*0.3)</h5>
+<h5>El 30%: @(cali.calificacion*0.3)</h5>
+<h5>El Total es: @cali.calificacion</h5>
+@code {
+    Models.Model_Calificaciones cali = new Models.Model_Calificaciones();
+    string message = "Calificacion fuera de rango";
+    private void Calificar()
+    {
+        if (cali.calificacion >= 90)
+            cali.literal = "A";
+        else if (cali.calificacion >= 80)
+            cali.literal = "B";
+        else if (cali.calificacion >= 70)
+            cali.literal = "C";
+        else
+        {
+            cali.literal = "R";
+        }
+    }
+    private async Task Alert()
+    {
+        if (cali.calificacion <= 100 || cali.calificacion >= 0)
+        {
+            Calificar();
+        }
+        else
+        {
+            cali.calificacion = 0;
+            await JSRuntime.InvokeAsync<object>("Alert", message);
+            return;
+        }
+        if (cali.literal.Equals("R"))
+        {
+            await JSRuntime.InvokeAsync<object>("Alert", "Reprobaste");
+        }
+    }
+}
+

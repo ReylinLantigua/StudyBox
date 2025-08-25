@@ -1,0 +1,303 @@
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\appsettings.json
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.exe
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.deps.json
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.pdb
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\FSharp.Core.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ScrapySharp.Core.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ScrapySharp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\en\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.input.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\1_Frases.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Calificaciones.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ImagenURL.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Medidas.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumARomano.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumLetras.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Promedio.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\RandomUser.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.output.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\WebApp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\1_Frases.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Calificaciones.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\ImagenURL.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Medidas.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\NumARomano.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\NumLetras.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Promedio.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\RandomUser.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.pdb
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ConstruirSilla.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\ConstruirSilla.razor.g.cs
+D:\Reylin\Trabajos\ITLA 2021_Segundo\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\appsettings.json
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.exe
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.deps.json
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.pdb
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\FSharp.Core.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ScrapySharp.Core.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ScrapySharp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\en\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.input.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\1_Frases.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Calificaciones.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ConstruirSilla.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ImagenURL.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Medidas.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumARomano.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumLetras.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Promedio.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\RandomUser.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.output.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\RazorDeclaration\WebApp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\1_Frases.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Calificaciones.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\ConstruirSilla.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\ImagenURL.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Medidas.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\NumARomano.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\NumLetras.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Promedio.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\RandomUser.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.pdb
+D:\Downloads\OneDrive_2025-08-25\Programacion III\Tarea 2\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\appsettings.json
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.exe
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.deps.json
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.pdb
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\FSharp.Core.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ScrapySharp.Core.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ScrapySharp.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\en\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CSharp\_.NET ASP\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.input.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\1_Frases.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Calificaciones.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ConstruirSilla.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ImagenURL.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Medidas.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumARomano.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\NumLetras.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Promedio.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\RandomUser.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.output.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\RazorDeclaration\WebApp.dll
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\1_Frases.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Calificaciones.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\ConstruirSilla.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\ImagenURL.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Medidas.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\NumARomano.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\NumLetras.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Promedio.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\RandomUser.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.dll
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.pdb
+D:\CSharp\_.NET ASP\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache

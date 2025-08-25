@@ -1,0 +1,64 @@
+﻿@page "/randomuser"
+@using WebApp.Models
+
+<h4 style="        text-align: center;
+        color: white;
+        padding: 10px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+    Usuarios Random
+</h4>
+<hr />
+
+<EditForm Model="count">
+    <InputSelect @bind-Value="count.cantidad">
+        <option value="">Seleccione la cantidad usuarios</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+
+    </InputSelect>
+</EditForm>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Edad</th>
+            <th scope="col">Calle</th>
+            <th scope="col">Ciudad</th>
+            <th scope="col">Foto</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Models.Model_RandomUser.addperson(cant).results)
+        {
+            <tr>
+                <td>@person.name.first</td>
+                <td>@person.name.last</td>
+                <td>@person.dob.age</td>
+                <td>@person.location.street.name</td>
+                <td>@person.location.city</td>
+                <td><img src="@person.picture.thumbnail" alt="Alternate Text" /></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<button class="btn btn-secondary" @onclick="Mostrar"><i class="oi oi-reload "></i>  Actualizar</button>
+@code {
+    Models.Count count = new Models.Count();
+    int cant = 1;
+    public void Mostrar()
+    {
+        cant = count.cantidad;
+    }
+}

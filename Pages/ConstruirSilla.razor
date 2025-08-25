@@ -1,0 +1,77 @@
+﻿@page "/construir"
+<h4 style="        text-align: center;
+        color: white;
+        padding: 5px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+    Construir Silla
+</h4>
+<p style="text-align:center;">Para hacer una silla se necesitan 3 partes de madera, 2 partes de metal,10 remaches</p>
+<EditForm Model="silla">
+    <div class="form-group">
+        <label class="control-label col-md-3">Ingrese la Cantidad de Madera:</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Ingrese la cantidad" @bind-Value="silla.madera" />
+        </div>
+        <br />
+        <label class="control-label col-md-3">Ingrese la Cantidad de Metal:</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Ingrese la cantidad" @bind-Value="silla.metal" />
+        </div>
+        <br />
+        <label class="control-label col-md-4">Ingrese la Cantidad de Remaches:</label>
+        <div class="col-md-10">
+            <InputNumber class="form-control" placeholder="Ingrese la cantidad" @bind-Value="silla.remaches" />
+        </div>
+        <br />
+        <div>
+            <button class="btn btn-secondary" @onclick="contruir"><i class="oi oi-briefcase"></i>  Construir</button>
+        </div>
+    </div>
+</EditForm>
+
+<p>Los Materiales sobrantes son: @silla.madera Madera, @silla.metal Metal, @silla.remaches Remaches</p>
+<h5>La catidad de sillas contruida es: @silla.sillas</h5>
+
+<div>
+    @for (int i = 0; i < silla.sillas; i++)
+    {
+        <img src="@silla.imagen" asp-append-version='true' onerror="this.style.display='none'" width='100' height='100' />
+    }
+</div>
+@code {
+    Models.Model_Silla silla = new Models.Model_Silla();
+    private void contruir()
+    {
+        silla.vmateriales = true;
+        silla.sillas = 0;
+        while (silla.vmateriales)
+        {
+            if (silla.madera >= Models.Model_Silla.constmadera)
+            {
+                if (silla.metal >= Models.Model_Silla.constmetal)
+                {
+                    if (silla.remaches >= Models.Model_Silla.constremaches)
+                    {
+                        silla.madera = silla.madera - Models.Model_Silla.constmadera;
+                        silla.metal = silla.metal - Models.Model_Silla.constmetal;
+                        silla.remaches = silla.remaches - Models.Model_Silla.constremaches;
+                        silla.sillas++;
+                        if(silla.sillas >= 5)
+                            silla.imagen = "/107396.jpg";
+                        else
+                        {
+                            silla.imagen = "";
+                        }
+                    }
+                    else
+                        silla.vmateriales = false;
+                }
+                else
+                    silla.vmateriales = false;
+            }
+            else
+                silla.vmateriales = false;
+        }
+    }
+}

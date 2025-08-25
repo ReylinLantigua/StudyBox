@@ -1,0 +1,90 @@
+﻿@page "/promedio"
+<EditForm Model="promedio">
+    <div class="form-horizontal">
+        <h4 style="        text-align: center;
+        color: white;
+        padding: 10px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+            Promedio de 3 Números
+        </h4>
+        <hr />
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Primer Número</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Digite el Número" @bind-Value="promedio.num1" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Segundo Número</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Digite el Número" @bind-Value="promedio.num2" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Tercer Número</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Digite el Número" @bind-Value="promedio.num3" />
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button class="btn btn-success" @onclick="Calcular"><i class="oi oi-bar-chart"></i>  Calcular</button>
+            </div>
+        </div>
+    </div>
+</EditForm>
+<br />
+<h4>Los numeros son: [@promedio.num1], [@promedio.num2], [@promedio.num3]</h4>
+<h5>El mayor es: @promedio.mayor</h5>
+<h5>El menor es: @promedio.menor</h5>
+<h5>El Promedio total es: @promedio.promedio</h5>
+@code {
+    Models.Model_Promedio promedio = new Models.Model_Promedio();
+
+    public void Calcular()
+    {
+        if(promedio.num1 < promedio.num2)
+        {
+            if (promedio.num2 < promedio.num3)
+            {
+                promedio.mayor = promedio.num3;
+            }
+            else
+            {
+                promedio.mayor = promedio.num2;
+            }
+        }
+        else if(promedio.num1 > promedio.num2)
+        {
+            if(promedio.num1 < promedio.num3)
+            {
+                promedio.mayor = promedio.num3;
+            }
+            else
+            {
+                promedio.mayor = promedio.num1;
+            }
+        }
+        //Menor
+        if (promedio.num1 < promedio.num2 && promedio.num1 < promedio.num3)
+        {
+            promedio.menor = promedio.num1;
+        }
+        else if (promedio.num2 < promedio.num1 && promedio.num2 < promedio.num3)
+        {
+            promedio.menor = promedio.num2;
+        }
+        else
+        {
+            promedio.menor = promedio.num3;
+        }
+
+        promedio.promedio = promedio.num1 + promedio.num2 + promedio.num3;
+        promedio.promedio = promedio.promedio / 3;
+    }
+}

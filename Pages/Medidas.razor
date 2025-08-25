@@ -1,0 +1,66 @@
+﻿@page "/triangulo"
+
+<EditForm Model="medi">
+    <div class="form-horizontal">
+        <h4 style="        text-align: center;
+        color: white;
+        padding: 10px;
+        border-radius:5px;
+        background-color: rgba(6, 7, 29,0.5)">
+            Tipo de Triangulo
+        </h4>
+        <hr />
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Primer Lado</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Medida del primer lado" @bind-Value="medi.lado_1" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Segundo Lado</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Medida del segundo lado" @bind-Value="medi.lado_2" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Tercer Lado</label>
+            <div class="col-md-10">
+                <InputNumber class="form-control" placeholder="Medida del tercer lado" @bind-Value="medi.lado_3" />
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button class="btn btn-success" @onclick="Medir"><i class="oi oi-plus"></i>Calcular</button>
+            </div>
+        </div>
+    </div>
+</EditForm>
+<br />
+<h3>Este triangulo es: @tipo</h3>
+@code {
+    Models.Model_Medidas medi = new Models.Model_Medidas();
+
+    string tipo = "";
+    public void Medir()
+    {
+        int lado_1 = medi.lado_1;
+        int lado_2 = medi.lado_2;
+        int lado_3 = medi.lado_3;
+        if (lado_1 == lado_2 ^ lado_1 == lado_2 ^ lado_2 == lado_3)
+        {
+            tipo = "Equilatero";
+        }
+        else if ((lado_1 != lado_2) ^ (lado_1 != lado_3) ^ (lado_2 != lado_3))
+        {
+            tipo = "Escaleno";
+        }
+        else
+        {
+            tipo = "Isósceles";
+        }
+    }
+}
