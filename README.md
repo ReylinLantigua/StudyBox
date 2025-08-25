@@ -96,10 +96,3 @@ Uso libre con fines educativos.
 ---
 
 ```
-
----
-
-👉 Esto le da un tono académico y profesional a la vez.  
-
-¿Quieres que le prepare también una **versión corta para tu CV**, con un par de líneas atractivas sobre StudyBox (en vez del README completo)?
-```
